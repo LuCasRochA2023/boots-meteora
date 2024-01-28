@@ -1,0 +1,47 @@
+.texto-menor{
+    font-size: 13px;
+}
+.div-facilidades{
+ width: 325px; 
+ padding: 16px;  
+}
+.categoria{
+    background: #000000;
+    text-align: center;
+    color:#fff;
+}
+.section{
+    background: #000000;
+
+}
+.section i{
+    color: #DAFF01;
+}
+.div-green{
+    color: #DAFF01;
+    padding: 14px;
+    margin-top: 0;
+}
+.botaoEnviar{
+    background: #9353FF;
+    color: #fff;
+    padding: 16px;
+    border-radius: 6px;
+}
+.botaoSaibaMais{
+    background: #9353FF;
+    border: 1px solid #9353FF ;
+    padding: 10px;
+    border-radius: 6px;
+    color: #fff;
+    text-decoration: none;
+    
+}
+.posicao{
+    top:40%;
+}
+@media(max-width: 767px){
+    .posicao{
+        top: 60%;
+    }
+}
